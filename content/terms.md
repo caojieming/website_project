@@ -12,4 +12,4 @@ header:
   image: ""
 ---
 
-Add your terms here and set `draft: false` to publish it. Otherwise, delete this file if you don't need it.
+Use this website at you own risk, I claim no responsibility for negative outcomes that may occur as a result of viewing this site.

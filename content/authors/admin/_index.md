@@ -18,15 +18,17 @@ organizations:
   url: "https://www.wpi.edu"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I like CS.
+bio: CS student in training.
 
 interests:
 - Artificial Intelligence
 - Computer Science
-- Ducks
 
 education:
   courses:
+  - course: Computer Science (BS, prospective)
+    institution: Worcester Polytechnic Institute
+    year: 2024
   - course: High School
     institution: Columbus Academy
     year: 2020
@@ -42,9 +44,9 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+# - icon: envelope
+#   icon_pack: fas
+#   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 # - icon: twitter
 #   icon_pack: fab
 #   link: https://twitter.com/GeorgeCushen
@@ -71,6 +73,4 @@ email: ""
 # - Visitors
 ---
 
-WIP, pls be patient
-
-(╯°□°)╯︵ ┻━┻
+I am an student of Worcester Polytechnic Institute's class of 2024 with an itch for computer science.

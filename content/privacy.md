@@ -12,4 +12,4 @@ header:
   image: ""
 ---
 
-Add your privacy policy here and set `draft: false` to publish it. Otherwise, delete this file if you don't need it.
+I don't collect data because I don't know how to. However, the service hosting my site may be collecting data and may have its own privacy policies.
