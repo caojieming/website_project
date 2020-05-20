@@ -73,4 +73,4 @@ email: ""
 # - Visitors
 ---
 
-I am an student of Worcester Polytechnic Institute's class of 2024 with an itch for computer science.
+I am a student of Worcester Polytechnic Institute's class of 2024 with an itch for computer science.
