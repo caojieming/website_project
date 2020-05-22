@@ -28,7 +28,7 @@ image:
 projects: []
 ---
 
-This a simple form of Tron made using Javascript, CSS, and HTML.
+As part of my senior project, I made a simple form of Tron made using Javascript, CSS, and HTML. It includes 1-player and 2-player, with the 1-player AI focusing on maximising its own playing area and minimising the opponent's. Along with learning how use JS, CSS, and HTML, I also learned some terminal commands and how to use GitHub.
 
 <a href="https://jamescao.dev/Senior-Project/">Link to Tron</a>
 
