@@ -12,4 +12,4 @@ header:
   image: ""
 ---
 
-Use this website at you own risk, I claim no responsibility for negative outcomes that may occur as a result of viewing this site.
+Use this website at you own risk, I claim no responsibility for negative outcomes that may occur as a result of viewing this site (not that there should be any).

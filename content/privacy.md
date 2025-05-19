@@ -12,4 +12,4 @@ header:
   image: ""
 ---
 
-I don't collect data because I don't know how to. However, the service hosting my site may be collecting data and may have its own privacy policies.
+I don't collect data in any way, shape, or form. However, the service hosting my site may be collecting data and may have its own privacy policies.
